@@ -1,0 +1,16 @@
+.container{
+	background-color: lightgray;
+	padding: 15px;
+	border-radius: 10px;
+}
+
+.registration{
+	font-family: algerian;
+	text-align: center;
+	border-bottom: 3px dashed red;
+}
+
+form .container1{
+	display: flex;
+	flex-wrap: wrap;
+}
